@@ -11,7 +11,7 @@ Ide o jednoduchý fakturačný systém, ktorý používa tieto textové súbory:
 1. `faktury-plus-archiv.tsv` - archív faktúr, ktoré posielam ja na úhradu (ich PDF súbory sú už uložené v priečinku s názvom plus)
 1. `vytvor_faktury.au3` - skript napísaný v jazyku [AutoIt](https://www.autoitscript.com/), ktorý vytvorí HTML súbory a zapíše dávku na ich konvertovanie do formátu PDF (viac info v komentároch skriptu)
 
-Názov PDF súboru pre faktúry plus (výnosy) je v tomto formáte: `f-p-RRRRXXX.pdf`.
+Názov PDF súboru pre faktúry plus (výnosy) je v tomto formáte: `f-p-RRRRXXX.pdf`
 
 Údaje na faktúre plus (zo súboru faktury-plus.tsv) sú oddelené tabulátorom (nie čiarkou) a nasledujú presne v tomto poradí:
 
